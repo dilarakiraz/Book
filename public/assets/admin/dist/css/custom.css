@@ -1,0 +1,36 @@
+.yonetici:hover{
+    color: red !important;
+    background: black !important;
+    border: 1px solid blue;
+}
+.d-block.yonetici:hover{
+    border: 1px solid blue !important;
+}
+.btn.btn-block.btn-info:hover{
+    color: red ;
+}
+
+.kezban:hover{
+    background: blue !important;
+    color: white !important;
+}
+.arkaplan{
+    background: black;
+    color: red;
+}
+.arkaplan2{
+    display: flex;
+    flex-direction: column;
+}
+.arkaplan3{
+    display: flex;
+    justify-content: center;
+}
+.arkaplan4{
+    background: white;
+    color: black;
+}
+.arkaplan4:hover{
+    background: blue;
+    color: white;
+}

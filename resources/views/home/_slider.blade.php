@@ -1,0 +1,38 @@
+<!-- HOME -->
+<div id="home">
+    <!-- container -->
+    <div class="container">
+        <!-- home wrap -->
+        <div class="home-wrap">
+            <!-- home slick -->
+            <div id="home-slick">
+                @php
+                    $i=0;
+                @endphp
+                @foreach($slider as $rs)
+                    @php
+                        $i+= 1;
+                    @endphp
+                        <!-- banner -->
+                    <div class="banner banner-1 @if($i==1)active @endif ">
+                        <img src="{{ Storage::url($rs->image)}}" style="height: 500px" alt="">
+                        <div class="banner-caption text-center ">
+                            <div class="card-body">
+
+                            <h3 class="white-color font-weak">{{$rs->price}}₺</h3>
+                            <a href="{{route('product',['id' => $rs->id,'slug' => $rs->slug ])}}" class="primary-btn">İNCELE</a>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- /banner -->
+                @endforeach
+
+
+            </div>
+            <!-- /home slick -->
+        </div>
+        <!-- /home wrap -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /HOME -->
