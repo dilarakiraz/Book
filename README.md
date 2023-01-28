@@ -84,3 +84,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ![Ekran Görüntüsü (1490)](https://user-images.githubusercontent.com/76565172/215261454-b9f14ade-b1fd-4b5e-9057-9b1ecc16efb5.png)
 ## Register olan kullanıcıya mailtrap aracılığı ile mail onay linki gönderilir.
 ![Ekran Görüntüsü (1491)](https://user-images.githubusercontent.com/76565172/215261489-0da5048f-2240-4957-ba33-04edb457fb9d.png)
+## Sepetin onaylanıp, alışveriş yapıldığı sayfa
+![Ekran Görüntüsü (1493)](https://user-images.githubusercontent.com/76565172/215261563-b28b3a11-6476-41ef-bf58-f3ec724153c1.png)
