@@ -88,3 +88,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ![Ekran Görüntüsü (1493)](https://user-images.githubusercontent.com/76565172/215261563-b28b3a11-6476-41ef-bf58-f3ec724153c1.png)
 ## Admin panelde yetkisi olmayanın girişi engellendi
 ![Ekran Görüntüsü (1495)](https://user-images.githubusercontent.com/76565172/215261616-a8c19f23-1d84-4ce7-b739-e432daeb0979.png)
+## Adminin kategori, ürün ekleme -düzenleme-silme yaptığı ,satışları ve mesajları görebildiği panel
+![Ekran Görüntüsü (1506)](https://user-images.githubusercontent.com/76565172/215261674-d2e0417c-ce43-4b9b-8815-50c7009b389d.png)
